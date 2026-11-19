@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sql-analytics-lab"
+version = "1.0.0"
+description = "A SQL and data-modelling portfolio project: synthetic South African online-retail star schema in SQLite."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Kagiso Gabaatlhole" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2"]
+
+[project.scripts]
+sql-lab = "sql_lab.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

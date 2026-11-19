@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Wireless Earbuds (Essential),Electronics,2852.01,2045.04
+P002,Power Bank (Premium),Electronics,2363.71,1543.73
+P003,Bluetooth Speaker (Everyday),Electronics,2574.87,1565.16
+P004,Laptop Stand (Urban),Electronics,2209.36,1220.20
+P005,Webcam (Essential),Electronics,1665.48,1071.40
+P006,Smart Watch (Premium),Electronics,1968.16,1410.56
+P007,USB-C Cable Set (Everyday),Electronics,1964.60,1317.86
+P008,Desk Lamp (Urban),Electronics,1617.21,892.14
+P009,Chef Knife (Essential),Home & Kitchen,563.73,311.72
+P010,Non-stick Pan (Premium),Home & Kitchen,547.06,338.46
+P011,Coffee Grinder (Everyday),Home & Kitchen,883.11,489.50
+P012,Storage Container Set (Urban),Home & Kitchen,759.87,545.97
+P013,Cutting Board (Essential),Home & Kitchen,754.63,586.68
+P014,Electric Kettle (Premium),Home & Kitchen,230.26,132.19
+P015,Blender (Everyday),Home & Kitchen,261.67,156.47
+P016,Utensil Holder (Urban),Home & Kitchen,544.84,410.70
+P017,Cotton T-Shirt (Essential),Clothing,275.05,178.57
+P018,Denim Jacket (Premium),Clothing,336.37,219.15
+P019,Running Shorts (Everyday),Clothing,447.70,357.07
+P020,Hooded Sweatshirt (Urban),Clothing,251.00,180.97
+P021,Chino Trousers (Essential),Clothing,611.76,436.45
+P022,Summer Dress (Premium),Clothing,617.77,457.09
+P023,Wool Beanie (Everyday),Clothing,174.23,112.35
+P024,Canvas Sneakers (Urban),Clothing,440.57,248.49
+P025,Cookbook (Essential),Books,82.55,48.94
+P026,Crime Novel (Premium),Books,214.96,141.55
+P027,Atlas of Africa (Everyday),Books,291.78,201.76
+P028,Biography (Urban),Books,311.65,178.84
+P029,Poetry Anthology (Essential),Books,222.60,124.80
+P030,Study Guide (Premium),Books,137.08,105.14
+P031,Children's Storybook (Everyday),Books,319.64,213.80
+P032,Face Cream (Deluxe),Beauty,75.83,43.12
+P033,Shampoo (Compact),Beauty,374.70,290.33
+P034,Sunscreen SPF50 (Classic),Beauty,251.59,140.44
+P035,Lip Balm (Pro),Beauty,375.78,236.22
+P036,Beard Oil (Deluxe),Beauty,386.90,269.58
+P037,Body Lotion (Compact),Beauty,315.77,229.94
+P038,Perfume Roll-on (Classic),Beauty,195.42,111.24
+P039,Yoga Mat (Urban),Sports & Outdoors,213.72,130.39
+P040,Resistance Bands (Essential),Sports & Outdoors,684.26,442.91
+P041,Camping Lantern (Premium),Sports & Outdoors,727.57,460.50
+P042,Running Armband (Everyday),Sports & Outdoors,628.93,367.92
+P043,Cricket Set (Urban),Sports & Outdoors,791.93,578.93
+P044,Hiking Water Bottle (Essential),Sports & Outdoors,450.55,357.55
+P045,Jump Rope (Premium),Sports & Outdoors,137.59,90.71
+P046,Building Blocks (Pro),Toys & Games,388.70,246.88
+P047,Card Game (Deluxe),Toys & Games,362.22,285.69
+P048,Puzzle 1000pc (Compact),Toys & Games,220.75,164.10
+P049,Toy Dinosaur (Classic),Toys & Games,81.26,50.25
+P050,Board Game (Pro),Toys & Games,447.18,300.80
+P051,Kite (Deluxe),Toys & Games,205.21,161.15
+P052,Colouring Set (Compact),Toys & Games,234.10,168.53
+P053,Rooibos Tea 200g (Everyday),Grocery,142.31,81.32
+P054,Biltong 250g (Urban),Grocery,135.16,101.30
+P055,Dried Fruit Mix (Essential),Grocery,151.23,86.28
+P056,Coffee Beans 500g (Premium),Grocery,56.22,40.92
+P057,Braai Spice Set (Everyday),Grocery,137.76,101.24
+P058,Peanut Butter 750g (Urban),Grocery,83.84,48.35
+P059,Dried Black Beans 1kg (Essential),Grocery,30.88,19.36
+P060,Rooibos Tea 200g (Premium),Grocery,91.19,56.30

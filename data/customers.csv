@@ -1,0 +1,801 @@
+customer_id,customer_name,province,signup_date
+C0001,Lwazi Mahlangu,Limpopo,2023-01-26
+C0002,Nomsa Khumalo,Limpopo,2023-05-23
+C0003,Karabo Oosthuizen,Gauteng,2024-07-12
+C0004,Fatima Dlamini,Gauteng,2023-01-31
+C0005,Nomsa Sithole,Gauteng,2024-09-08
+C0006,Bongani Mahlaba,Eastern Cape,2024-10-27
+C0007,Fatima Khumalo,Western Cape,2024-04-04
+C0008,Nandi Segwapa,Limpopo,2023-01-07
+C0009,Lerato Mahlaba,KwaZulu-Natal,2024-03-08
+C0010,Kagiso Guma,KwaZulu-Natal,2025-02-20
+C0011,Sipho Mabaso,KwaZulu-Natal,2023-04-10
+C0012,Chloe Jacobs,Limpopo,2023-09-28
+C0013,Ayanda Botha,Gauteng,2024-07-03
+C0014,Yusuf Mabaso,Western Cape,2023-03-22
+C0015,Mduduzi Ntuli,North West,2024-09-25
+C0016,Chloe Mthembu,Eastern Cape,2023-07-16
+C0017,Naledi Fourie,Limpopo,2023-08-22
+C0018,Sipho Segwapa,Mpumalanga,2023-08-27
+C0019,Daniel Van Wyk,Eastern Cape,2024-04-09
+C0020,Chloe Zulu,KwaZulu-Natal,2024-01-15
+C0021,Karabo Van Wyk,North West,2024-12-19
+C0022,Lwazi Ncube,Eastern Cape,2024-09-15
+C0023,Raadiyo Oosthuizen,Gauteng,2023-09-08
+C0024,Daniel Van Wyk,Eastern Cape,2024-10-17
+C0025,Nomsa Fourie,Mpumalanga,2023-11-29
+C0026,Grant Dlamini,Mpumalanga,2023-08-23
+C0027,Nandi Smith,KwaZulu-Natal,2024-02-15
+C0028,Bongani Hlophe,Mpumalanga,2024-08-03
+C0029,Keanu Guma,Western Cape,2024-11-02
+C0030,Rethabile Hlophe,Western Cape,2024-10-20
+C0031,Andile Mokoena,Limpopo,2023-09-10
+C0032,Raadiyo Van Wyk,Western Cape,2025-02-03
+C0033,Rethabile Mthembu,KwaZulu-Natal,2024-02-13
+C0034,Kagiso Sithole,Gauteng,2024-05-20
+C0035,Naledi Segwapa,Gauteng,2023-04-23
+C0036,Lerato Chauke,KwaZulu-Natal,2024-11-27
+C0037,Sipho Mabaso,Western Cape,2024-01-26
+C0038,Sibusiso Sithole,Free State,2023-09-15
+C0039,Palesa Nkosi,Eastern Cape,2024-11-27
+C0040,Karabo Mofokeng,Limpopo,2024-07-03
+C0041,Grant Ntuli,Gauteng,2023-12-15
+C0042,Fatima Zulu,Gauteng,2024-04-09
+C0043,Ayanda Mofokeng,KwaZulu-Natal,2025-01-06
+C0044,Ntando Sibanda,Western Cape,2023-07-02
+C0045,Zanele Segwapa,KwaZulu-Natal,2024-10-02
+C0046,Lwazi Sithole,Gauteng,2024-09-15
+C0047,Chloe Sibanda,Western Cape,2023-06-15
+C0048,Grant Hlophe,North West,2024-06-27
+C0049,Aisha Smith,Gauteng,2024-05-15
+C0050,Yusuf Ndlovu,Northern Cape,2025-06-18
+C0051,Nandi Naidoo,Gauteng,2023-09-03
+C0052,Rethabile Mthembu,Gauteng,2023-03-22
+C0053,Tumi Ramokgopa,Free State,2023-03-12
+C0054,Raadiyo Sibanda,Gauteng,2023-05-09
+C0055,Tumi Adams,KwaZulu-Natal,2023-06-19
+C0056,Palesa Jacobs,Free State,2024-03-09
+C0057,Yusuf Adams,Eastern Cape,2025-02-12
+C0058,Bongani Mahlaba,KwaZulu-Natal,2023-11-16
+C0059,Karabo Ntuli,KwaZulu-Natal,2024-01-18
+C0060,Ntando Botha,Gauteng,2023-05-04
+C0061,Sipho Smith,Western Cape,2023-01-22
+C0062,Nomsa Mthembu,Gauteng,2023-08-14
+C0063,Refilwe Ntuli,Gauteng,2023-03-02
+C0064,Rethabile Dlamini,KwaZulu-Natal,2025-05-30
+C0065,Ntando Khumalo,Eastern Cape,2023-10-13
+C0066,Bongani Adams,Eastern Cape,2023-05-16
+C0067,Rethabile Mthembu,Western Cape,2024-08-13
+C0068,Nandi Molefe,KwaZulu-Natal,2025-04-06
+C0069,Zanele Mahlangu,KwaZulu-Natal,2024-11-05
+C0070,Fatima Pillay,Mpumalanga,2024-04-23
+C0071,Naledi Fourie,Northern Cape,2024-10-31
+C0072,Zanele Dlamini,Eastern Cape,2024-02-17
+C0073,Nandi Segwapa,Gauteng,2023-04-22
+C0074,Bongani Adams,Gauteng,2024-04-04
+C0075,Lerato Van Wyk,Gauteng,2024-04-18
+C0076,Yusuf Ncube,Limpopo,2024-03-29
+C0077,Palesa Adams,Gauteng,2023-04-11
+C0078,Raadiyo Ramokgopa,Free State,2023-01-16
+C0079,Yusuf Sibanda,Gauteng,2025-05-19
+C0080,Fatima Molefe,Gauteng,2024-05-07
+C0081,Daniel Mofokeng,Gauteng,2023-03-02
+C0082,Thabo Mabaso,North West,2023-09-29
+C0083,Nandi Botha,KwaZulu-Natal,2023-10-20
+C0084,Ayanda Chauke,Eastern Cape,2024-07-23
+C0085,Tumi Mokoena,KwaZulu-Natal,2023-07-14
+C0086,Naledi Mthembu,Western Cape,2025-01-23
+C0087,Ayanda Smith,Gauteng,2023-02-28
+C0088,Tumi Sithole,Western Cape,2025-05-23
+C0089,Naledi Sithole,Mpumalanga,2023-03-24
+C0090,Sipho Jacobs,Eastern Cape,2023-03-11
+C0091,Nomsa Mabaso,Free State,2023-05-03
+C0092,Johan Khumalo,Western Cape,2024-08-15
+C0093,Aisha Ncube,Eastern Cape,2024-03-05
+C0094,Johan Sithole,North West,2023-11-20
+C0095,Bongani Fourie,KwaZulu-Natal,2025-01-03
+C0096,Andile Mabaso,Eastern Cape,2023-05-15
+C0097,Precious Botha,North West,2023-11-20
+C0098,Yusuf Ncube,Western Cape,2023-01-10
+C0099,Johan Mahlangu,Western Cape,2023-03-17
+C0100,Ntando Van Wyk,North West,2023-05-16
+C0101,Rethabile Ncube,Gauteng,2025-06-19
+C0102,Precious Zulu,Mpumalanga,2024-03-24
+C0103,Refilwe Naidoo,Northern Cape,2024-09-18
+C0104,Nandi Ntuli,Gauteng,2024-06-25
+C0105,Mduduzi Adams,North West,2023-11-03
+C0106,Zanele Mofokeng,KwaZulu-Natal,2023-05-18
+C0107,Rethabile Mahlangu,Western Cape,2025-01-30
+C0108,Andile Naidoo,Gauteng,2024-09-11
+C0109,Keanu Guma,Eastern Cape,2024-12-04
+C0110,Andile Sithole,Gauteng,2024-05-15
+C0111,Yusuf Segwapa,Gauteng,2023-02-22
+C0112,Fatima Ramokgopa,Gauteng,2023-10-11
+C0113,Keanu Sibanda,Eastern Cape,2023-05-14
+C0114,Andile Zulu,KwaZulu-Natal,2025-01-29
+C0115,Refilwe Pillay,Gauteng,2024-07-28
+C0116,Sipho Mofokeng,North West,2024-12-08
+C0117,Raadiyo Dlamini,KwaZulu-Natal,2025-05-04
+C0118,Raadiyo Mokoena,Gauteng,2024-03-16
+C0119,Precious Ndlovu,Free State,2025-03-26
+C0120,Naledi Mofokeng,Gauteng,2024-01-02
+C0121,Nomsa Fourie,KwaZulu-Natal,2023-04-16
+C0122,Raadiyo Mofokeng,KwaZulu-Natal,2025-06-14
+C0123,Aisha Oosthuizen,North West,2023-06-08
+C0124,Nomsa Segwapa,Free State,2023-06-16
+C0125,Nandi Zulu,KwaZulu-Natal,2025-06-21
+C0126,Lerato Oosthuizen,Limpopo,2023-12-07
+C0127,Fatima Chauke,Mpumalanga,2024-11-16
+C0128,Nandi Khumalo,Gauteng,2023-10-01
+C0129,Refilwe Mahlangu,Mpumalanga,2024-01-27
+C0130,Palesa Molefe,Gauteng,2023-08-16
+C0131,Yusuf Botha,KwaZulu-Natal,2023-12-25
+C0132,Nandi Segwapa,Gauteng,2023-08-22
+C0133,Karabo Guma,KwaZulu-Natal,2024-02-13
+C0134,Palesa Ncube,KwaZulu-Natal,2025-03-02
+C0135,Lwazi Sithole,Eastern Cape,2024-02-14
+C0136,Mduduzi Adams,North West,2023-12-06
+C0137,Zanele Mofokeng,Gauteng,2023-09-25
+C0138,Andile Dlamini,Western Cape,2023-04-22
+C0139,Chloe Oosthuizen,KwaZulu-Natal,2025-03-16
+C0140,Aisha Sithole,KwaZulu-Natal,2023-04-29
+C0141,Johan Guma,Gauteng,2023-09-18
+C0142,Fatima Nkosi,North West,2024-06-16
+C0143,Raadiyo Fourie,Free State,2025-01-06
+C0144,Ayanda Fourie,KwaZulu-Natal,2023-07-21
+C0145,Sipho Fourie,Eastern Cape,2023-12-05
+C0146,Karabo Segwapa,Eastern Cape,2023-05-08
+C0147,Precious Sithole,Eastern Cape,2023-11-13
+C0148,Keanu Mabaso,KwaZulu-Natal,2024-12-14
+C0149,Kagiso Guma,Eastern Cape,2024-03-06
+C0150,Daniel Fourie,North West,2025-02-05
+C0151,Aisha Mthembu,KwaZulu-Natal,2023-11-05
+C0152,Mduduzi Nkosi,KwaZulu-Natal,2023-11-08
+C0153,Fatima Chauke,Western Cape,2024-08-16
+C0154,Keanu Botha,KwaZulu-Natal,2024-03-28
+C0155,Bongani Sithole,Limpopo,2024-04-29
+C0156,Nandi Oosthuizen,Eastern Cape,2023-06-23
+C0157,Precious Sithole,Eastern Cape,2024-11-10
+C0158,Keanu Ncube,Free State,2025-04-18
+C0159,Nomsa Fourie,Gauteng,2023-11-14
+C0160,Bongani Mokoena,Gauteng,2023-01-26
+C0161,Tumi Jacobs,Limpopo,2025-05-20
+C0162,Sibusiso Pillay,Eastern Cape,2025-06-26
+C0163,Bongani Mahlaba,KwaZulu-Natal,2024-12-14
+C0164,Daniel Khumalo,Eastern Cape,2023-06-01
+C0165,Thabo Mofokeng,Mpumalanga,2025-02-07
+C0166,Rethabile Mahlangu,KwaZulu-Natal,2025-03-08
+C0167,Lerato Chauke,Western Cape,2024-12-13
+C0168,Naledi Adams,North West,2023-09-13
+C0169,Zanele Botha,Limpopo,2023-05-17
+C0170,Karabo Sithole,Western Cape,2024-07-26
+C0171,Grant Mofokeng,Western Cape,2024-03-29
+C0172,Ayanda Mofokeng,KwaZulu-Natal,2024-05-31
+C0173,Yusuf Adams,North West,2024-04-01
+C0174,Ayanda Segwapa,Western Cape,2024-05-01
+C0175,Grant Khumalo,Eastern Cape,2025-05-10
+C0176,Grant Sibanda,Western Cape,2024-06-17
+C0177,Nomsa Van Wyk,Gauteng,2024-03-26
+C0178,Precious Khumalo,KwaZulu-Natal,2023-10-06
+C0179,Rethabile Adams,Gauteng,2023-03-24
+C0180,Nomsa Mabaso,Gauteng,2024-12-11
+C0181,Bongani Ncube,KwaZulu-Natal,2024-02-29
+C0182,Raadiyo Botha,Gauteng,2024-03-01
+C0183,Mduduzi Pillay,North West,2024-02-03
+C0184,Johan Mahlaba,Mpumalanga,2023-01-21
+C0185,Grant Mthembu,Western Cape,2024-01-25
+C0186,Chloe Naidoo,KwaZulu-Natal,2025-02-10
+C0187,Rethabile Ramokgopa,Western Cape,2024-03-05
+C0188,Ayanda Adams,Western Cape,2025-03-30
+C0189,Nomsa Molefe,KwaZulu-Natal,2023-08-13
+C0190,Tumi Nkosi,KwaZulu-Natal,2024-02-03
+C0191,Karabo Chauke,Eastern Cape,2024-02-19
+C0192,Mduduzi Botha,Northern Cape,2023-05-11
+C0193,Raadiyo Nkosi,Western Cape,2024-02-08
+C0194,Karabo Nkosi,Eastern Cape,2023-03-27
+C0195,Kagiso Segwapa,Gauteng,2024-04-17
+C0196,Andile Mabaso,Gauteng,2023-12-02
+C0197,Keanu Smith,Mpumalanga,2025-02-18
+C0198,Andile Sibanda,KwaZulu-Natal,2025-05-01
+C0199,Mduduzi Ncube,Gauteng,2024-04-26
+C0200,Raadiyo Dlamini,Gauteng,2023-12-25
+C0201,Sipho Sibanda,Gauteng,2024-10-29
+C0202,Thabo Khumalo,Mpumalanga,2023-07-24
+C0203,Aisha Mokoena,Gauteng,2023-09-02
+C0204,Karabo Mahlangu,Free State,2024-07-31
+C0205,Sibusiso Mahlaba,Limpopo,2023-09-20
+C0206,Lerato Jacobs,Free State,2024-09-13
+C0207,Refilwe Mahlangu,Mpumalanga,2025-03-07
+C0208,Precious Mahlangu,Gauteng,2024-08-15
+C0209,Precious Mthembu,North West,2024-11-24
+C0210,Daniel Mabaso,Gauteng,2025-01-02
+C0211,Johan Mahlaba,Eastern Cape,2025-04-30
+C0212,Zanele Mahlaba,KwaZulu-Natal,2025-03-02
+C0213,Karabo Jacobs,Gauteng,2025-04-04
+C0214,Johan Chauke,KwaZulu-Natal,2023-02-12
+C0215,Fatima Fourie,Gauteng,2024-01-15
+C0216,Lwazi Smith,Mpumalanga,2023-01-13
+C0217,Mduduzi Molefe,KwaZulu-Natal,2023-04-19
+C0218,Chloe Ntuli,Western Cape,2025-04-28
+C0219,Kagiso Pillay,Limpopo,2023-06-30
+C0220,Lwazi Van Wyk,Limpopo,2024-09-22
+C0221,Raadiyo Sibanda,Western Cape,2024-05-10
+C0222,Mduduzi Oosthuizen,KwaZulu-Natal,2024-08-29
+C0223,Palesa Khumalo,North West,2025-04-30
+C0224,Andile Mofokeng,Gauteng,2024-04-06
+C0225,Sibusiso Mthembu,Eastern Cape,2024-09-16
+C0226,Keanu Nkosi,Mpumalanga,2024-05-21
+C0227,Lerato Molefe,KwaZulu-Natal,2023-08-06
+C0228,Andile Smith,North West,2023-10-14
+C0229,Refilwe Mofokeng,Western Cape,2023-10-10
+C0230,Ntando Guma,Gauteng,2023-03-29
+C0231,Fatima Molefe,Limpopo,2024-07-22
+C0232,Refilwe Molefe,Eastern Cape,2024-10-23
+C0233,Sibusiso Chauke,Gauteng,2023-01-18
+C0234,Nomsa Mabaso,Gauteng,2024-12-09
+C0235,Karabo Mthembu,Western Cape,2024-01-13
+C0236,Ntando Ndlovu,Northern Cape,2024-03-11
+C0237,Raadiyo Smith,Eastern Cape,2023-12-27
+C0238,Andile Naidoo,Gauteng,2023-09-15
+C0239,Ayanda Guma,Gauteng,2023-11-20
+C0240,Raadiyo Sibanda,Gauteng,2024-12-07
+C0241,Bongani Oosthuizen,KwaZulu-Natal,2024-05-10
+C0242,Johan Sibanda,Western Cape,2024-06-21
+C0243,Zanele Ramokgopa,KwaZulu-Natal,2023-07-18
+C0244,Chloe Zulu,Gauteng,2023-11-06
+C0245,Raadiyo Mokoena,Gauteng,2023-10-08
+C0246,Naledi Adams,Eastern Cape,2023-10-27
+C0247,Kagiso Ntuli,Limpopo,2025-06-08
+C0248,Zanele Segwapa,Western Cape,2023-01-13
+C0249,Tumi Molefe,KwaZulu-Natal,2024-03-27
+C0250,Naledi Van Wyk,Western Cape,2025-06-01
+C0251,Mduduzi Ncube,Western Cape,2024-02-15
+C0252,Johan Ntuli,Gauteng,2024-12-03
+C0253,Kagiso Chauke,Free State,2024-07-30
+C0254,Sipho Khumalo,Western Cape,2023-05-02
+C0255,Fatima Jacobs,Limpopo,2024-09-02
+C0256,Nomsa Sibanda,KwaZulu-Natal,2024-06-19
+C0257,Yusuf Botha,Mpumalanga,2023-11-01
+C0258,Fatima Naidoo,Eastern Cape,2024-08-05
+C0259,Aisha Oosthuizen,Free State,2023-04-12
+C0260,Bongani Ntuli,KwaZulu-Natal,2023-08-05
+C0261,Sipho Zulu,Gauteng,2023-09-03
+C0262,Sipho Zulu,KwaZulu-Natal,2023-01-03
+C0263,Refilwe Jacobs,KwaZulu-Natal,2024-04-26
+C0264,Nomsa Naidoo,KwaZulu-Natal,2024-12-24
+C0265,Palesa Botha,Eastern Cape,2023-03-14
+C0266,Yusuf Van Wyk,Limpopo,2025-03-17
+C0267,Johan Fourie,North West,2025-04-03
+C0268,Fatima Mahlangu,Gauteng,2024-07-11
+C0269,Kagiso Hlophe,Mpumalanga,2023-09-30
+C0270,Sipho Dlamini,Limpopo,2023-06-19
+C0271,Aisha Oosthuizen,Western Cape,2025-04-24
+C0272,Precious Botha,Western Cape,2023-05-08
+C0273,Precious Mahlaba,Free State,2024-02-17
+C0274,Ntando Adams,KwaZulu-Natal,2024-05-20
+C0275,Aisha Dlamini,KwaZulu-Natal,2025-06-29
+C0276,Keanu Jacobs,Gauteng,2023-09-14
+C0277,Nomsa Fourie,Mpumalanga,2025-05-06
+C0278,Johan Nkosi,Eastern Cape,2025-02-22
+C0279,Andile Mthembu,Limpopo,2023-02-11
+C0280,Lerato Molefe,Eastern Cape,2024-06-15
+C0281,Yusuf Van Wyk,Northern Cape,2023-07-05
+C0282,Fatima Ntuli,Western Cape,2025-04-13
+C0283,Sipho Molefe,KwaZulu-Natal,2023-12-23
+C0284,Keanu Fourie,Mpumalanga,2023-04-18
+C0285,Keanu Pillay,Western Cape,2024-12-11
+C0286,Karabo Mabaso,Limpopo,2025-04-13
+C0287,Naledi Botha,KwaZulu-Natal,2023-04-01
+C0288,Keanu Mahlangu,KwaZulu-Natal,2025-03-02
+C0289,Ntando Ramokgopa,Eastern Cape,2023-01-02
+C0290,Raadiyo Botha,Gauteng,2024-02-28
+C0291,Ntando Ndlovu,Limpopo,2024-09-29
+C0292,Lwazi Botha,Gauteng,2025-02-17
+C0293,Andile Adams,North West,2023-05-15
+C0294,Sibusiso Mofokeng,Western Cape,2024-12-16
+C0295,Thabo Ntuli,Limpopo,2024-09-15
+C0296,Refilwe Zulu,Western Cape,2023-11-15
+C0297,Raadiyo Pillay,Gauteng,2023-04-06
+C0298,Mduduzi Hlophe,Western Cape,2023-04-27
+C0299,Zanele Ntuli,Gauteng,2025-05-02
+C0300,Yusuf Mahlaba,Western Cape,2023-10-26
+C0301,Andile Pillay,Western Cape,2025-05-04
+C0302,Tumi Khumalo,Western Cape,2024-04-12
+C0303,Daniel Guma,Western Cape,2024-09-05
+C0304,Rethabile Mokoena,Gauteng,2025-06-03
+C0305,Grant Chauke,KwaZulu-Natal,2025-05-24
+C0306,Yusuf Chauke,KwaZulu-Natal,2024-06-03
+C0307,Thabo Naidoo,KwaZulu-Natal,2025-01-13
+C0308,Johan Mthembu,Western Cape,2024-11-06
+C0309,Kagiso Botha,Western Cape,2024-07-05
+C0310,Keanu Adams,Western Cape,2025-02-20
+C0311,Sibusiso Hlophe,Mpumalanga,2023-11-26
+C0312,Refilwe Khumalo,KwaZulu-Natal,2024-08-08
+C0313,Palesa Sibanda,Gauteng,2024-02-25
+C0314,Ayanda Molefe,North West,2024-12-23
+C0315,Daniel Mabaso,Limpopo,2024-11-10
+C0316,Lwazi Mokoena,Free State,2024-05-22
+C0317,Kagiso Sithole,KwaZulu-Natal,2024-08-27
+C0318,Zanele Segwapa,KwaZulu-Natal,2025-05-15
+C0319,Ntando Hlophe,Gauteng,2024-04-12
+C0320,Kagiso Pillay,Eastern Cape,2025-06-10
+C0321,Kagiso Ncube,Limpopo,2024-04-25
+C0322,Andile Smith,Eastern Cape,2024-09-30
+C0323,Lwazi Ncube,KwaZulu-Natal,2025-05-22
+C0324,Karabo Segwapa,KwaZulu-Natal,2024-06-30
+C0325,Keanu Ntuli,North West,2025-01-05
+C0326,Tumi Segwapa,Gauteng,2024-07-08
+C0327,Sipho Khumalo,Eastern Cape,2024-10-08
+C0328,Precious Khumalo,Gauteng,2025-02-03
+C0329,Zanele Sibanda,Eastern Cape,2024-10-10
+C0330,Zanele Botha,Eastern Cape,2023-06-20
+C0331,Rethabile Nkosi,KwaZulu-Natal,2023-02-17
+C0332,Naledi Naidoo,KwaZulu-Natal,2024-01-03
+C0333,Kagiso Khumalo,KwaZulu-Natal,2024-06-27
+C0334,Karabo Chauke,Gauteng,2023-07-04
+C0335,Sipho Jacobs,KwaZulu-Natal,2025-06-10
+C0336,Karabo Khumalo,North West,2024-05-24
+C0337,Kagiso Khumalo,Eastern Cape,2024-04-17
+C0338,Sibusiso Van Wyk,Gauteng,2024-11-13
+C0339,Nandi Botha,Eastern Cape,2023-10-22
+C0340,Lerato Ncube,Free State,2024-03-28
+C0341,Johan Naidoo,Free State,2024-10-16
+C0342,Refilwe Van Wyk,Mpumalanga,2024-04-12
+C0343,Bongani Mabaso,Western Cape,2025-05-23
+C0344,Nomsa Mabaso,KwaZulu-Natal,2024-08-08
+C0345,Precious Mahlaba,Gauteng,2023-10-30
+C0346,Mduduzi Fourie,KwaZulu-Natal,2024-02-10
+C0347,Johan Segwapa,Limpopo,2024-12-03
+C0348,Naledi Hlophe,Limpopo,2024-09-12
+C0349,Mduduzi Mofokeng,Limpopo,2023-10-21
+C0350,Nomsa Jacobs,KwaZulu-Natal,2025-04-01
+C0351,Lwazi Guma,Gauteng,2024-09-27
+C0352,Grant Oosthuizen,Eastern Cape,2025-02-24
+C0353,Mduduzi Mokoena,Gauteng,2024-10-05
+C0354,Lwazi Ntuli,KwaZulu-Natal,2023-02-10
+C0355,Sibusiso Dlamini,KwaZulu-Natal,2024-08-16
+C0356,Kagiso Ncube,KwaZulu-Natal,2023-10-30
+C0357,Fatima Zulu,Gauteng,2023-07-25
+C0358,Raadiyo Mofokeng,Western Cape,2024-01-10
+C0359,Yusuf Van Wyk,Gauteng,2025-04-30
+C0360,Yusuf Ramokgopa,Free State,2024-05-08
+C0361,Precious Oosthuizen,KwaZulu-Natal,2025-06-10
+C0362,Zanele Botha,Gauteng,2023-03-19
+C0363,Nomsa Segwapa,Eastern Cape,2024-11-23
+C0364,Daniel Segwapa,Western Cape,2025-04-03
+C0365,Sipho Chauke,Gauteng,2024-02-09
+C0366,Raadiyo Mahlangu,KwaZulu-Natal,2024-04-10
+C0367,Ayanda Fourie,Western Cape,2023-09-26
+C0368,Mduduzi Ntuli,Gauteng,2024-01-16
+C0369,Nomsa Molefe,Western Cape,2023-01-26
+C0370,Raadiyo Smith,Gauteng,2024-09-16
+C0371,Sipho Ntuli,Western Cape,2025-04-23
+C0372,Refilwe Naidoo,KwaZulu-Natal,2024-10-26
+C0373,Kagiso Dlamini,KwaZulu-Natal,2023-02-08
+C0374,Tumi Mahlangu,Gauteng,2023-04-10
+C0375,Raadiyo Mokoena,Western Cape,2024-02-02
+C0376,Karabo Oosthuizen,Free State,2024-12-14
+C0377,Fatima Mthembu,Eastern Cape,2025-01-30
+C0378,Rethabile Pillay,Gauteng,2024-11-01
+C0379,Tumi Jacobs,North West,2024-02-22
+C0380,Andile Dlamini,KwaZulu-Natal,2024-12-07
+C0381,Sibusiso Botha,Mpumalanga,2023-08-30
+C0382,Zanele Fourie,Western Cape,2024-01-12
+C0383,Lwazi Ndlovu,KwaZulu-Natal,2023-03-04
+C0384,Bongani Mahlangu,Mpumalanga,2025-05-18
+C0385,Sipho Fourie,Eastern Cape,2023-08-06
+C0386,Aisha Nkosi,Limpopo,2023-02-21
+C0387,Nomsa Mokoena,Western Cape,2025-03-16
+C0388,Sipho Ramokgopa,Western Cape,2025-02-22
+C0389,Johan Guma,Mpumalanga,2025-04-12
+C0390,Keanu Sibanda,Limpopo,2023-06-01
+C0391,Aisha Nkosi,Mpumalanga,2023-10-11
+C0392,Kagiso Mokoena,Gauteng,2024-07-07
+C0393,Lerato Mahlangu,Mpumalanga,2024-11-07
+C0394,Kagiso Nkosi,Limpopo,2024-01-02
+C0395,Nomsa Mthembu,Gauteng,2023-11-28
+C0396,Andile Dlamini,Limpopo,2023-05-10
+C0397,Ntando Mahlangu,Gauteng,2025-02-02
+C0398,Sibusiso Sibanda,Western Cape,2024-01-06
+C0399,Zanele Botha,Gauteng,2024-05-30
+C0400,Aisha Dlamini,Limpopo,2025-01-14
+C0401,Palesa Fourie,KwaZulu-Natal,2024-06-17
+C0402,Lwazi Nkosi,Northern Cape,2023-03-04
+C0403,Palesa Mabaso,Eastern Cape,2024-03-12
+C0404,Tumi Mahlaba,Gauteng,2024-03-30
+C0405,Sipho Smith,Gauteng,2024-09-14
+C0406,Kagiso Van Wyk,Eastern Cape,2024-10-01
+C0407,Raadiyo Mahlaba,KwaZulu-Natal,2023-11-29
+C0408,Aisha Sithole,Western Cape,2023-10-29
+C0409,Aisha Pillay,Limpopo,2023-04-12
+C0410,Zanele Segwapa,Eastern Cape,2024-11-01
+C0411,Grant Adams,Mpumalanga,2025-01-08
+C0412,Fatima Botha,Gauteng,2025-06-28
+C0413,Keanu Ramokgopa,KwaZulu-Natal,2024-04-09
+C0414,Ayanda Mahlangu,KwaZulu-Natal,2023-11-17
+C0415,Karabo Van Wyk,Free State,2024-01-19
+C0416,Karabo Hlophe,Gauteng,2024-04-30
+C0417,Mduduzi Ncube,KwaZulu-Natal,2023-04-06
+C0418,Ayanda Oosthuizen,Mpumalanga,2024-01-17
+C0419,Raadiyo Dlamini,Free State,2024-08-23
+C0420,Raadiyo Smith,Gauteng,2024-11-17
+C0421,Chloe Segwapa,Free State,2024-11-12
+C0422,Fatima Segwapa,Gauteng,2025-01-08
+C0423,Precious Jacobs,KwaZulu-Natal,2023-11-16
+C0424,Johan Sithole,Gauteng,2023-08-06
+C0425,Tumi Khumalo,Gauteng,2025-05-17
+C0426,Palesa Adams,Gauteng,2024-01-12
+C0427,Andile Mthembu,Limpopo,2023-08-20
+C0428,Palesa Adams,Mpumalanga,2025-02-24
+C0429,Aisha Fourie,Western Cape,2024-10-20
+C0430,Aisha Hlophe,Mpumalanga,2024-11-04
+C0431,Andile Nkosi,KwaZulu-Natal,2023-07-04
+C0432,Grant Naidoo,KwaZulu-Natal,2023-12-14
+C0433,Lerato Segwapa,Western Cape,2023-05-27
+C0434,Daniel Ncube,Limpopo,2023-05-26
+C0435,Thabo Ncube,Western Cape,2025-02-03
+C0436,Daniel Pillay,KwaZulu-Natal,2024-04-09
+C0437,Chloe Naidoo,KwaZulu-Natal,2025-01-08
+C0438,Johan Jacobs,North West,2023-03-28
+C0439,Kagiso Zulu,Western Cape,2025-02-11
+C0440,Karabo Ncube,KwaZulu-Natal,2023-10-06
+C0441,Fatima Molefe,KwaZulu-Natal,2024-09-13
+C0442,Andile Guma,Western Cape,2025-02-12
+C0443,Chloe Pillay,KwaZulu-Natal,2023-04-24
+C0444,Karabo Mthembu,Western Cape,2024-05-13
+C0445,Precious Dlamini,KwaZulu-Natal,2023-08-14
+C0446,Aisha Dlamini,Gauteng,2023-01-08
+C0447,Bongani Sibanda,Limpopo,2023-05-21
+C0448,Precious Smith,Gauteng,2023-05-03
+C0449,Ayanda Pillay,Gauteng,2023-06-29
+C0450,Raadiyo Mahlaba,Western Cape,2023-08-24
+C0451,Mduduzi Fourie,KwaZulu-Natal,2025-04-05
+C0452,Daniel Segwapa,Gauteng,2025-01-29
+C0453,Thabo Botha,Mpumalanga,2023-03-21
+C0454,Johan Pillay,KwaZulu-Natal,2024-08-10
+C0455,Lwazi Pillay,Gauteng,2023-10-24
+C0456,Thabo Smith,Limpopo,2023-06-25
+C0457,Aisha Botha,Eastern Cape,2025-05-01
+C0458,Chloe Ncube,Mpumalanga,2024-03-23
+C0459,Nomsa Pillay,KwaZulu-Natal,2024-08-26
+C0460,Sipho Mabaso,KwaZulu-Natal,2025-06-10
+C0461,Keanu Khumalo,Limpopo,2023-12-08
+C0462,Sipho Sithole,Gauteng,2024-10-10
+C0463,Ntando Guma,KwaZulu-Natal,2025-03-05
+C0464,Ayanda Ramokgopa,Mpumalanga,2024-10-22
+C0465,Nomsa Mahlangu,Gauteng,2023-05-30
+C0466,Lerato Jacobs,Limpopo,2023-06-06
+C0467,Lwazi Ncube,Free State,2023-07-01
+C0468,Lwazi Molefe,Limpopo,2024-04-20
+C0469,Grant Mthembu,Eastern Cape,2024-04-04
+C0470,Rethabile Mthembu,Eastern Cape,2024-10-20
+C0471,Aisha Smith,Free State,2025-06-03
+C0472,Keanu Mokoena,Gauteng,2024-03-26
+C0473,Sibusiso Ntuli,Limpopo,2023-11-07
+C0474,Johan Dlamini,Western Cape,2023-12-27
+C0475,Precious Botha,Gauteng,2024-04-07
+C0476,Chloe Ramokgopa,Gauteng,2023-10-21
+C0477,Palesa Segwapa,Western Cape,2023-04-03
+C0478,Ntando Mabaso,Western Cape,2024-04-18
+C0479,Nandi Oosthuizen,KwaZulu-Natal,2023-02-12
+C0480,Nandi Mthembu,Gauteng,2024-10-29
+C0481,Aisha Molefe,Gauteng,2024-05-28
+C0482,Naledi Botha,Mpumalanga,2023-04-16
+C0483,Mduduzi Smith,Gauteng,2025-01-01
+C0484,Lwazi Zulu,Gauteng,2023-02-10
+C0485,Sibusiso Botha,Western Cape,2024-06-20
+C0486,Lerato Ndlovu,North West,2024-01-17
+C0487,Daniel Pillay,KwaZulu-Natal,2025-03-04
+C0488,Aisha Dlamini,Eastern Cape,2025-03-19
+C0489,Keanu Ncube,Gauteng,2023-12-04
+C0490,Karabo Mabaso,Gauteng,2023-10-18
+C0491,Palesa Fourie,Mpumalanga,2024-09-09
+C0492,Keanu Ncube,Eastern Cape,2024-08-19
+C0493,Yusuf Ndlovu,Free State,2023-11-14
+C0494,Refilwe Fourie,Gauteng,2024-02-06
+C0495,Refilwe Ncube,Western Cape,2023-11-14
+C0496,Lwazi Chauke,Mpumalanga,2023-12-03
+C0497,Karabo Mahlaba,Free State,2025-04-28
+C0498,Karabo Hlophe,Gauteng,2024-06-23
+C0499,Karabo Pillay,KwaZulu-Natal,2024-06-04
+C0500,Chloe Naidoo,Free State,2023-07-04
+C0501,Keanu Sibanda,Gauteng,2024-05-12
+C0502,Kagiso Mokoena,KwaZulu-Natal,2023-03-21
+C0503,Nandi Mahlangu,Limpopo,2024-06-03
+C0504,Mduduzi Oosthuizen,Western Cape,2025-06-23
+C0505,Karabo Smith,Limpopo,2025-06-16
+C0506,Kagiso Jacobs,Gauteng,2024-01-21
+C0507,Lerato Ramokgopa,Limpopo,2024-12-10
+C0508,Nandi Mofokeng,Eastern Cape,2023-06-19
+C0509,Naledi Pillay,Eastern Cape,2024-01-09
+C0510,Nomsa Botha,KwaZulu-Natal,2024-09-17
+C0511,Ayanda Chauke,Gauteng,2024-04-04
+C0512,Nomsa Naidoo,Limpopo,2025-04-08
+C0513,Rethabile Ramokgopa,KwaZulu-Natal,2023-07-18
+C0514,Johan Botha,Limpopo,2024-04-17
+C0515,Grant Mabaso,Western Cape,2024-05-29
+C0516,Lerato Ramokgopa,Limpopo,2023-07-24
+C0517,Kagiso Segwapa,Gauteng,2023-09-14
+C0518,Tumi Segwapa,Western Cape,2024-01-16
+C0519,Zanele Mahlaba,Western Cape,2025-05-16
+C0520,Zanele Naidoo,Limpopo,2023-03-27
+C0521,Andile Botha,Gauteng,2024-06-09
+C0522,Fatima Ncube,Mpumalanga,2023-08-16
+C0523,Rethabile Ndlovu,KwaZulu-Natal,2023-01-28
+C0524,Daniel Sithole,Gauteng,2024-01-18
+C0525,Sipho Ndlovu,Gauteng,2023-08-18
+C0526,Yusuf Mahlangu,Eastern Cape,2025-05-09
+C0527,Keanu Chauke,Gauteng,2023-05-30
+C0528,Precious Hlophe,Western Cape,2025-04-29
+C0529,Mduduzi Mokoena,Eastern Cape,2025-02-16
+C0530,Sibusiso Jacobs,North West,2023-01-06
+C0531,Thabo Van Wyk,Mpumalanga,2023-08-09
+C0532,Raadiyo Oosthuizen,Western Cape,2024-09-15
+C0533,Zanele Sibanda,Gauteng,2023-10-23
+C0534,Zanele Dlamini,KwaZulu-Natal,2023-09-02
+C0535,Nandi Jacobs,Gauteng,2024-04-13
+C0536,Mduduzi Mofokeng,Western Cape,2024-05-26
+C0537,Thabo Ntuli,Western Cape,2024-06-11
+C0538,Refilwe Mokoena,KwaZulu-Natal,2023-10-26
+C0539,Aisha Ndlovu,Western Cape,2023-09-04
+C0540,Lerato Fourie,Gauteng,2024-11-15
+C0541,Chloe Ncube,Western Cape,2024-06-22
+C0542,Nandi Sithole,Gauteng,2024-07-21
+C0543,Palesa Molefe,Eastern Cape,2023-02-14
+C0544,Chloe Van Wyk,Gauteng,2025-02-04
+C0545,Nandi Ncube,Gauteng,2023-12-20
+C0546,Karabo Ntuli,Limpopo,2023-04-17
+C0547,Ayanda Sibanda,Gauteng,2023-12-07
+C0548,Chloe Adams,Mpumalanga,2023-12-13
+C0549,Lerato Ramokgopa,Eastern Cape,2025-03-08
+C0550,Refilwe Molefe,Gauteng,2024-10-08
+C0551,Kagiso Ncube,Limpopo,2025-01-03
+C0552,Sibusiso Dlamini,Gauteng,2023-10-28
+C0553,Nandi Guma,Gauteng,2025-06-26
+C0554,Yusuf Naidoo,KwaZulu-Natal,2024-06-11
+C0555,Mduduzi Adams,Gauteng,2024-04-29
+C0556,Grant Ntuli,KwaZulu-Natal,2023-07-15
+C0557,Palesa Sibanda,Mpumalanga,2023-02-18
+C0558,Keanu Van Wyk,Limpopo,2023-05-08
+C0559,Fatima Mofokeng,Limpopo,2024-02-14
+C0560,Rethabile Mabaso,Free State,2023-12-14
+C0561,Tumi Mahlaba,KwaZulu-Natal,2024-05-24
+C0562,Nandi Sithole,Limpopo,2023-10-01
+C0563,Ayanda Pillay,KwaZulu-Natal,2023-03-22
+C0564,Mduduzi Zulu,KwaZulu-Natal,2024-07-12
+C0565,Zanele Ncube,Eastern Cape,2023-12-02
+C0566,Precious Botha,Eastern Cape,2024-09-09
+C0567,Lerato Mahlaba,KwaZulu-Natal,2024-03-30
+C0568,Naledi Oosthuizen,North West,2025-06-09
+C0569,Aisha Pillay,Eastern Cape,2023-10-09
+C0570,Nandi Dlamini,Eastern Cape,2023-03-18
+C0571,Daniel Ndlovu,Limpopo,2024-06-09
+C0572,Karabo Zulu,Gauteng,2023-02-01
+C0573,Aisha Fourie,KwaZulu-Natal,2025-03-11
+C0574,Kagiso Ncube,Limpopo,2023-08-30
+C0575,Chloe Ndlovu,Free State,2024-01-28
+C0576,Naledi Jacobs,Eastern Cape,2023-06-07
+C0577,Chloe Ndlovu,Limpopo,2024-03-30
+C0578,Johan Mokoena,KwaZulu-Natal,2024-06-26
+C0579,Keanu Ntuli,Gauteng,2023-10-13
+C0580,Zanele Nkosi,Gauteng,2025-01-23
+C0581,Ntando Mabaso,Gauteng,2024-07-29
+C0582,Grant Van Wyk,KwaZulu-Natal,2024-12-21
+C0583,Aisha Naidoo,North West,2024-12-11
+C0584,Tumi Guma,Gauteng,2023-05-06
+C0585,Sipho Botha,North West,2023-06-26
+C0586,Sibusiso Ncube,Eastern Cape,2025-04-09
+C0587,Palesa Smith,KwaZulu-Natal,2024-11-14
+C0588,Sipho Adams,KwaZulu-Natal,2024-07-09
+C0589,Precious Segwapa,Eastern Cape,2023-06-11
+C0590,Yusuf Mahlaba,Gauteng,2024-10-15
+C0591,Chloe Sithole,Gauteng,2023-08-18
+C0592,Bongani Chauke,Gauteng,2023-05-23
+C0593,Tumi Nkosi,Western Cape,2024-01-05
+C0594,Chloe Botha,Northern Cape,2025-04-02
+C0595,Kagiso Jacobs,Gauteng,2025-06-24
+C0596,Precious Mabaso,Eastern Cape,2025-01-04
+C0597,Ntando Pillay,KwaZulu-Natal,2025-02-26
+C0598,Johan Ncube,Free State,2023-05-09
+C0599,Lwazi Ncube,Western Cape,2024-04-05
+C0600,Ntando Ndlovu,Mpumalanga,2023-05-12
+C0601,Grant Adams,Western Cape,2024-10-17
+C0602,Grant Mokoena,Western Cape,2024-03-19
+C0603,Palesa Dlamini,Gauteng,2025-05-01
+C0604,Kagiso Naidoo,Gauteng,2023-06-18
+C0605,Yusuf Mahlaba,KwaZulu-Natal,2023-08-19
+C0606,Ntando Mofokeng,Mpumalanga,2023-10-18
+C0607,Andile Guma,Free State,2024-10-12
+C0608,Andile Mokoena,KwaZulu-Natal,2024-10-02
+C0609,Raadiyo Ncube,Eastern Cape,2024-05-29
+C0610,Johan Mthembu,Gauteng,2023-06-07
+C0611,Aisha Oosthuizen,KwaZulu-Natal,2024-09-11
+C0612,Yusuf Mthembu,Mpumalanga,2023-02-12
+C0613,Thabo Ncube,Free State,2023-02-16
+C0614,Grant Mthembu,Eastern Cape,2023-09-29
+C0615,Grant Mthembu,Western Cape,2024-03-02
+C0616,Thabo Molefe,Eastern Cape,2025-06-29
+C0617,Precious Ntuli,Western Cape,2023-11-06
+C0618,Nandi Chauke,KwaZulu-Natal,2024-12-02
+C0619,Sibusiso Ncube,Gauteng,2024-12-06
+C0620,Sibusiso Pillay,Western Cape,2024-05-10
+C0621,Keanu Jacobs,KwaZulu-Natal,2023-05-28
+C0622,Refilwe Smith,Northern Cape,2025-01-21
+C0623,Chloe Mabaso,Limpopo,2023-05-14
+C0624,Ntando Adams,KwaZulu-Natal,2023-04-19
+C0625,Sibusiso Mahlangu,KwaZulu-Natal,2023-10-01
+C0626,Kagiso Mahlangu,KwaZulu-Natal,2023-02-21
+C0627,Daniel Segwapa,KwaZulu-Natal,2024-09-22
+C0628,Palesa Mofokeng,Mpumalanga,2023-06-13
+C0629,Yusuf Mthembu,KwaZulu-Natal,2025-01-08
+C0630,Grant Zulu,Northern Cape,2024-05-25
+C0631,Sibusiso Molefe,KwaZulu-Natal,2025-06-19
+C0632,Thabo Ncube,Western Cape,2024-02-07
+C0633,Nomsa Guma,KwaZulu-Natal,2024-08-20
+C0634,Naledi Naidoo,Western Cape,2024-05-21
+C0635,Mduduzi Ntuli,Western Cape,2024-11-19
+C0636,Raadiyo Nkosi,Gauteng,2025-05-17
+C0637,Kagiso Mofokeng,Eastern Cape,2023-09-28
+C0638,Grant Mabaso,Gauteng,2024-01-10
+C0639,Naledi Mthembu,Gauteng,2024-07-29
+C0640,Raadiyo Naidoo,KwaZulu-Natal,2023-03-17
+C0641,Sibusiso Sibanda,KwaZulu-Natal,2024-07-17
+C0642,Aisha Fourie,Gauteng,2024-09-17
+C0643,Zanele Mabaso,Limpopo,2024-01-18
+C0644,Keanu Adams,Limpopo,2024-01-10
+C0645,Bongani Jacobs,KwaZulu-Natal,2024-06-05
+C0646,Naledi Dlamini,Gauteng,2023-02-09
+C0647,Keanu Chauke,Western Cape,2024-04-30
+C0648,Kagiso Jacobs,Gauteng,2024-06-11
+C0649,Yusuf Jacobs,Gauteng,2023-11-23
+C0650,Aisha Oosthuizen,KwaZulu-Natal,2025-05-12
+C0651,Keanu Sithole,Western Cape,2025-04-28
+C0652,Tumi Mahlaba,KwaZulu-Natal,2024-07-30
+C0653,Mduduzi Nkosi,KwaZulu-Natal,2024-01-13
+C0654,Zanele Pillay,KwaZulu-Natal,2024-08-20
+C0655,Rethabile Oosthuizen,Eastern Cape,2025-06-12
+C0656,Thabo Jacobs,KwaZulu-Natal,2024-04-30
+C0657,Lwazi Chauke,Western Cape,2025-03-05
+C0658,Nomsa Oosthuizen,Western Cape,2023-02-22
+C0659,Lerato Sithole,Eastern Cape,2024-10-06
+C0660,Grant Ramokgopa,Gauteng,2024-01-25
+C0661,Karabo Khumalo,Western Cape,2023-02-02
+C0662,Refilwe Mahlangu,Gauteng,2023-07-15
+C0663,Keanu Pillay,KwaZulu-Natal,2023-06-05
+C0664,Bongani Pillay,Limpopo,2024-05-28
+C0665,Yusuf Molefe,Mpumalanga,2025-06-12
+C0666,Ayanda Dlamini,Gauteng,2024-12-23
+C0667,Bongani Adams,Northern Cape,2023-11-29
+C0668,Tumi Sithole,KwaZulu-Natal,2024-01-21
+C0669,Lerato Botha,KwaZulu-Natal,2024-06-29
+C0670,Chloe Fourie,Mpumalanga,2025-03-01
+C0671,Karabo Ntuli,Eastern Cape,2025-04-02
+C0672,Aisha Molefe,Free State,2023-07-16
+C0673,Andile Adams,Gauteng,2023-11-02
+C0674,Precious Sibanda,Eastern Cape,2023-10-23
+C0675,Refilwe Mahlaba,KwaZulu-Natal,2024-05-15
+C0676,Chloe Adams,Eastern Cape,2025-03-25
+C0677,Precious Mahlangu,Eastern Cape,2024-08-10
+C0678,Daniel Mofokeng,Mpumalanga,2024-02-09
+C0679,Grant Chauke,KwaZulu-Natal,2023-05-30
+C0680,Precious Mahlaba,KwaZulu-Natal,2023-03-22
+C0681,Sibusiso Ntuli,Limpopo,2023-09-20
+C0682,Bongani Guma,Western Cape,2025-04-27
+C0683,Yusuf Adams,KwaZulu-Natal,2024-12-13
+C0684,Zanele Jacobs,Western Cape,2025-01-28
+C0685,Nomsa Dlamini,North West,2024-11-16
+C0686,Nomsa Ntuli,Gauteng,2023-08-27
+C0687,Fatima Smith,Western Cape,2025-01-04
+C0688,Karabo Sibanda,Gauteng,2023-05-21
+C0689,Raadiyo Hlophe,KwaZulu-Natal,2023-06-11
+C0690,Yusuf Mofokeng,Western Cape,2025-06-18
+C0691,Lwazi Guma,Free State,2025-02-13
+C0692,Keanu Naidoo,Gauteng,2024-10-23
+C0693,Grant Ncube,Western Cape,2024-10-29
+C0694,Raadiyo Oosthuizen,Mpumalanga,2025-01-10
+C0695,Naledi Hlophe,KwaZulu-Natal,2023-06-29
+C0696,Mduduzi Zulu,Northern Cape,2023-02-07
+C0697,Daniel Chauke,Gauteng,2024-05-22
+C0698,Ayanda Segwapa,Mpumalanga,2023-10-24
+C0699,Thabo Naidoo,Western Cape,2024-08-04
+C0700,Yusuf Smith,Western Cape,2023-10-19
+C0701,Lwazi Adams,Western Cape,2024-06-20
+C0702,Kagiso Segwapa,Western Cape,2024-05-31
+C0703,Bongani Chauke,KwaZulu-Natal,2023-04-26
+C0704,Ayanda Botha,Gauteng,2024-10-25
+C0705,Lerato Nkosi,KwaZulu-Natal,2025-01-24
+C0706,Precious Mthembu,Limpopo,2024-11-21
+C0707,Lerato Jacobs,Eastern Cape,2025-05-26
+C0708,Daniel Ramokgopa,Western Cape,2024-03-13
+C0709,Sipho Mabaso,Gauteng,2024-11-16
+C0710,Kagiso Molefe,North West,2023-11-28
+C0711,Thabo Van Wyk,Gauteng,2024-01-28
+C0712,Grant Van Wyk,KwaZulu-Natal,2023-12-04
+C0713,Ayanda Mthembu,KwaZulu-Natal,2023-01-12
+C0714,Chloe Mahlaba,Gauteng,2023-08-30
+C0715,Zanele Botha,Gauteng,2023-11-11
+C0716,Karabo Sithole,Eastern Cape,2025-06-28
+C0717,Precious Mahlaba,Eastern Cape,2023-05-01
+C0718,Precious Ndlovu,Gauteng,2024-09-21
+C0719,Kagiso Molefe,Western Cape,2023-06-06
+C0720,Aisha Ndlovu,Eastern Cape,2024-03-01
+C0721,Yusuf Molefe,Western Cape,2025-02-14
+C0722,Karabo Ramokgopa,Limpopo,2023-08-12
+C0723,Karabo Sibanda,Mpumalanga,2024-09-02
+C0724,Sipho Sithole,Western Cape,2024-04-02
+C0725,Chloe Ncube,Gauteng,2024-07-31
+C0726,Mduduzi Adams,Gauteng,2024-06-01
+C0727,Raadiyo Mokoena,KwaZulu-Natal,2023-06-18
+C0728,Ntando Botha,Eastern Cape,2023-04-30
+C0729,Refilwe Mthembu,Gauteng,2024-05-15
+C0730,Ntando Botha,Gauteng,2025-04-08
+C0731,Kagiso Sithole,Western Cape,2024-03-01
+C0732,Naledi Adams,Eastern Cape,2024-04-18
+C0733,Precious Oosthuizen,KwaZulu-Natal,2023-01-23
+C0734,Mduduzi Nkosi,Gauteng,2025-02-02
+C0735,Sipho Dlamini,KwaZulu-Natal,2024-03-09
+C0736,Sipho Adams,North West,2023-03-03
+C0737,Sipho Hlophe,Gauteng,2024-04-28
+C0738,Fatima Zulu,Gauteng,2025-02-26
+C0739,Lwazi Oosthuizen,Free State,2024-10-23
+C0740,Chloe Mofokeng,KwaZulu-Natal,2024-01-27
+C0741,Yusuf Hlophe,KwaZulu-Natal,2024-01-22
+C0742,Karabo Fourie,Western Cape,2025-06-14
+C0743,Lwazi Segwapa,Gauteng,2023-12-23
+C0744,Raadiyo Mabaso,Gauteng,2024-06-25
+C0745,Nomsa Ramokgopa,Limpopo,2023-01-04
+C0746,Precious Botha,Eastern Cape,2024-11-20
+C0747,Fatima Adams,Mpumalanga,2024-01-24
+C0748,Nomsa Botha,Gauteng,2023-12-21
+C0749,Bongani Hlophe,Eastern Cape,2025-06-15
+C0750,Zanele Dlamini,Eastern Cape,2025-04-08
+C0751,Aisha Sibanda,North West,2025-06-23
+C0752,Nomsa Guma,Gauteng,2023-03-10
+C0753,Naledi Botha,Eastern Cape,2024-09-04
+C0754,Palesa Dlamini,Limpopo,2023-09-08
+C0755,Daniel Botha,Western Cape,2023-08-28
+C0756,Grant Segwapa,Gauteng,2025-03-05
+C0757,Ntando Naidoo,Mpumalanga,2023-08-28
+C0758,Ayanda Mthembu,Western Cape,2023-11-23
+C0759,Grant Fourie,KwaZulu-Natal,2025-04-18
+C0760,Precious Mofokeng,Northern Cape,2023-05-27
+C0761,Ntando Khumalo,KwaZulu-Natal,2024-02-28
+C0762,Naledi Adams,Mpumalanga,2024-08-28
+C0763,Yusuf Zulu,Eastern Cape,2024-10-03
+C0764,Raadiyo Molefe,Free State,2023-02-18
+C0765,Lwazi Fourie,Limpopo,2024-01-26
+C0766,Keanu Mahlaba,KwaZulu-Natal,2024-03-02
+C0767,Precious Mabaso,Limpopo,2023-07-08
+C0768,Tumi Khumalo,Gauteng,2025-05-19
+C0769,Palesa Mahlaba,Limpopo,2023-05-28
+C0770,Yusuf Dlamini,KwaZulu-Natal,2024-07-29
+C0771,Fatima Adams,Gauteng,2024-06-26
+C0772,Nomsa Van Wyk,KwaZulu-Natal,2023-07-28
+C0773,Sipho Hlophe,Mpumalanga,2024-04-05
+C0774,Sipho Adams,Mpumalanga,2025-01-11
+C0775,Naledi Van Wyk,Eastern Cape,2024-01-22
+C0776,Aisha Dlamini,Gauteng,2025-06-13
+C0777,Nandi Sibanda,Eastern Cape,2024-08-24
+C0778,Raadiyo Guma,Gauteng,2024-05-05
+C0779,Yusuf Smith,Free State,2023-11-07
+C0780,Thabo Guma,Free State,2023-07-14
+C0781,Zanele Oosthuizen,Western Cape,2025-02-11
+C0782,Nomsa Mahlaba,Eastern Cape,2024-09-10
+C0783,Daniel Hlophe,Western Cape,2023-09-03
+C0784,Grant Naidoo,Western Cape,2024-01-25
+C0785,Lwazi Ndlovu,KwaZulu-Natal,2023-11-12
+C0786,Ntando Mofokeng,Western Cape,2024-05-24
+C0787,Nandi Oosthuizen,Limpopo,2024-04-25
+C0788,Keanu Hlophe,KwaZulu-Natal,2023-07-28
+C0789,Fatima Dlamini,Mpumalanga,2024-07-30
+C0790,Ayanda Mokoena,KwaZulu-Natal,2023-01-17
+C0791,Yusuf Mthembu,Eastern Cape,2024-08-16
+C0792,Precious Mokoena,KwaZulu-Natal,2023-07-20
+C0793,Daniel Mthembu,Gauteng,2025-05-03
+C0794,Raadiyo Ntuli,KwaZulu-Natal,2024-12-02
+C0795,Grant Ramokgopa,Free State,2024-05-15
+C0796,Lwazi Oosthuizen,Western Cape,2024-05-17
+C0797,Ayanda Chauke,Gauteng,2023-12-27
+C0798,Ayanda Adams,Gauteng,2024-05-15
+C0799,Rethabile Adams,Free State,2024-10-19
+C0800,Ntando Dlamini,Mpumalanga,2025-05-09
